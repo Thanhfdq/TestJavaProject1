@@ -39,7 +39,7 @@ public class ReadQRCode extends javax.swing.JFrame implements Runnable, ThreadFa
      */
     public ReadQRCode() {
         initComponents();
-        initWebcam();
+//         initWebcam();
     }
 
     /**
